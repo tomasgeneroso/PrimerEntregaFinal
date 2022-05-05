@@ -1,0 +1,1 @@
+[{"id":1,"title":"ANANA","description":"sds","code":"asdgasdg","thumbnail":"(url)","price":14.5,"stock":4},{"id":3,"title":"JABON","description":"sds","code":"asdgasdg","thumbnail":"(url)","price":14.5,"stock":1},{"id":9,"title":"CHOCOLATE","description":"sds","code":"asdgasdg","thumbnail":"(url)","price":14.5,"stock":2}]
